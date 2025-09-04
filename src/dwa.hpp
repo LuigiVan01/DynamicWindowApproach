@@ -4,8 +4,6 @@
 #include <cfloat>
 #include <iostream>
 
-#include "controller/eigen.hpp"
-
 struct Pose {
     double x;
     double y;
